@@ -177,3 +177,5 @@ deploy_keys/
 plots/
 inference/
 trainer/
+.DS_Store
+.gitignore
